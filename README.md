@@ -39,8 +39,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [product-review-card-component-6qna2v7vs-bonkers1.vercel.app](product-review-card-component-6qna2v7vs-bonkers1.vercel.app)
+- Live Site URL: [product-review-card-component-6qna2v7vs-bonkers1.vercel.app](product-review-card-component-6qna2v7vs-bonkers1.vercel.app)
 
 ## My process
 
